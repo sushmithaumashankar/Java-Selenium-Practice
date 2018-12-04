@@ -18,5 +18,6 @@
 	<classpathentry kind="lib" path="C:/Users/sushmitha/Documents/Java Jar files/selenium-java-3.14.0/libs/okhttp-3.10.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sushmitha/Documents/Java Jar files/selenium-java-3.14.0/libs/okio-1.14.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sushmitha/Documents/Java Jar files/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sushmitha/Downloads/Flash.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
